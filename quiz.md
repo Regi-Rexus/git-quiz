@@ -8,7 +8,7 @@
 - NWhat is correct command to commit staged files?
   Second answer thierry
 - PWhat is correct command to check the current git status?
-
+test 
 - RTo stage only files with a .txt extention, the command is?
 
 - NAssuming a remote reposistory at https://github.com/myawesomegitname/my_repo.git, how would you add the remote repository to your local git?
